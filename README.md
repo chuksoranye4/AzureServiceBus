@@ -1,4 +1,4 @@
-Azure 
-Microservices
-ASP.NET MVC
+Azure,
+Microservices,
+ASP.NET MVC,
 Console Application
