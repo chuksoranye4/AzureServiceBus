@@ -10,7 +10,7 @@ namespace ServiceBusReader
 {
     class Program
     {
-        const string connString = "Endpoint=sb://personqueue.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=5NNs/LLECNCLovNAwRXgtnEL36G/9Qg4sYwqveOAzNo=";
+        const string connString = "";
         const string queueName = "personqueue";
         static IQueueClient queueClient;
         static async Task Main(string[] args)
